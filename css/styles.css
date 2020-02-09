@@ -1,0 +1,7 @@
+.introduction img{
+  float: left;
+}
+.introduction p{
+  float: right;
+  font-size: 120%;
+}
